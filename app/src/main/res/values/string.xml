@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Phone Auth Demo</string>
+    <string name="headline_activity_main" translatable="true">Please enter your mobile number</string>
+    <string name="subheadline_activity_main" translatable="true">You will receive 6 digit code to verify next</string>
+    <string name="title_lang_activity" translatable="true">Please select your language</string>
+    <string name="subtitle_lang_activity" translatable="true">you can change the language at any time</string>
+
+    <string-array name="lang_array">
+        <item>ENGLISH</item>
+        <item>HINDI</item>
+        <item>RUSSIAN</item>
+
+
+
+    </string-array>
+</resources>

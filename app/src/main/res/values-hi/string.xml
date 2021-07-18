@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="headline_activity_main" >>कृपया अपना मोबाइल नंबर दर्ज करें</string>
+    <string name="subheadline_activity_main">आगे सत्यापित करने के लिए आपको 6 अंकों का कोड प्राप्त होगा</string>
+    <string name="title_lang_activity">कृपया अपनी भाषा चुनें</string>
+    <string name="subtitle_lang_activity">आप किसी भी समय भाषा बदल सकते हैं</string>
+
+</resources>

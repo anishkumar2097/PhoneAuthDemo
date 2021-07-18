@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="headline_activity_main" ></string>
+    <string name="subheadline_activity_main">Пожалуйста, введите номер вашего мобильного телефона</string>
+    <string name="title_lang_activity">Пожалуйста, выберите ваш язык</string>
+    <string name="subtitle_lang_activity">вы можете изменить язык в любой момент</string>
+
+</resources>
